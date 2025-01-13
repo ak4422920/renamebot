@@ -14,7 +14,7 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1001785093771")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "akmovieshubbackup")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002390475605"))
 
 
