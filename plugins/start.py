@@ -36,11 +36,11 @@ async def start(client, message):
     text = f"""{message.from_user.mention} \nɪ  ᴀᴍ  ᴀɴ  ᴀᴅᴠᴀɴᴄᴇ  ꜰɪʟᴇ  ʀᴇɴᴀᴍᴇʀ  ᴀɴᴅ  ᴄᴏɴᴠᴇʀᴛᴇʀ  ʙᴏᴛ  ᴡɪᴛʜ  ᴘᴇʀᴍᴀɴᴇɴᴛ  ᴀɴᴅ  ᴄᴜsᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ  sᴜᴘᴘᴏʀᴛ.\n\nᴊᴜsᴛ  sᴇɴᴅ  ᴍᴇ  ᴀɴʏ  ᴠɪᴅᴇᴏ  ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !!\nᴏᴡɴᴇʀ @TechifyBots</b>"""
     
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("📢 Updates", url="https://telegram.me/TechifyBots"),
-        InlineKeyboardButton("💬 Support", url="https://telegram.me/TechifySupport")],
+        [InlineKeyboardButton("📢 Updates", url="https://telegram.me/akmoviebotz"),
+        InlineKeyboardButton("💬 Support", url="https://telegram.me/The_SonGoku")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/TechifyBots")]
+        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/akmoviebotz")]
         ])
     
     await message.reply_photo(
