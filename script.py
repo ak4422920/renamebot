@@ -20,17 +20,17 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://telegram.me/TechifyBots'>Techify Bots</a>
-<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/CallOwnerBot'>Rahul</a>
+<b>📢 Channel :</b> <a href='https://telegram.me/akmovieshubbackup'>akmovieshubbackup</a>
+<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/The_SonGoku'>The_SonGoku</a>
 
-<b>♻️ Bot Made By :</b> @TechifyBots"""
+<b>♻️ Bot Made By :</b> @AKMOVIEBOTZ"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>TechifyBots@UPI</code> 
+<b>🛍 For Donation:</b> <code>https://t.me/The_SonGoku</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -47,6 +47,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>By @TechifyBots</code>
-💬 For Any Help Contact @TechifySupport
+<code>By @AKMOVIEBOTZ</code>
+💬 For Any Help Contact @The_SonGoku
 """
